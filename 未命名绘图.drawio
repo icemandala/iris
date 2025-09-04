@@ -1,23 +1,17 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.2">
   <diagram name="Page-1" id="197159a0-c6a4-9194-75a8-e4174976684c">
     <mxGraphModel dx="1426" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="3jNfrjZPl3WnzNdYgvK_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1" source="1257a543d1cacc4b-43" target="PdrmwRfixQAd5WAtE5jr-2">
+        <mxCell id="3jNfrjZPl3WnzNdYgvK_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" source="1257a543d1cacc4b-43" target="PdrmwRfixQAd5WAtE5jr-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1257a543d1cacc4b-43" value="边缘节点1" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=none;verticalAlign=top;rounded=1;shadow=0;glass=0;" parent="1" vertex="1">
+        <mxCell id="1257a543d1cacc4b-43" value="园区/企业机房" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=none;verticalAlign=top;rounded=1;shadow=0;glass=0;" parent="1" vertex="1">
           <mxGeometry x="252" y="307" width="558" height="453" as="geometry" />
         </mxCell>
         <mxCell id="PdrmwRfixQAd5WAtE5jr-2" value="中心节点" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;fontSize=14;strokeColor=#d79b00;verticalAlign=top;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="889" y="302" width="560" height="463" as="geometry" />
-        </mxCell>
-        <mxCell id="PdrmwRfixQAd5WAtE5jr-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PdrmwRfixQAd5WAtE5jr-4" target="1257a543d1cacc4b-43" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PdrmwRfixQAd5WAtE5jr-4" value="用户" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#FF6A00;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.alibaba_cloud.user;points=[];aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="512" y="210" width="38" height="40.4" as="geometry" />
         </mxCell>
         <mxCell id="PdrmwRfixQAd5WAtE5jr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="PdrmwRfixQAd5WAtE5jr-21" target="PdrmwRfixQAd5WAtE5jr-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -112,22 +106,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3jNfrjZPl3WnzNdYgvK_-3" value="服务器1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cwh_cloud_web_hosting;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="3jNfrjZPl3WnzNdYgvK_-3" value="服务器1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cwh_cloud_web_hosting;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="303" y="574" width="49.8" height="45.6" as="geometry" />
         </mxCell>
-        <mxCell id="3jNfrjZPl3WnzNdYgvK_-4" value="热备服务器" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cwh_cloud_web_hosting;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;opacity=40;" vertex="1" parent="1">
+        <mxCell id="3jNfrjZPl3WnzNdYgvK_-4" value="热备服务器" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cwh_cloud_web_hosting;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="393" y="574" width="49.8" height="45.6" as="geometry" />
         </mxCell>
-        <mxCell id="3jNfrjZPl3WnzNdYgvK_-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="3jNfrjZPl3WnzNdYgvK_-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="490" y="505" width="280" height="209.6" as="geometry" />
         </mxCell>
-        <mxCell id="3jNfrjZPl3WnzNdYgvK_-9" value="关键字段抽取" style="aspect=fixed;html=1;align=left;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cloud_shield;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;points=[];" vertex="1" parent="1">
+        <mxCell id="3jNfrjZPl3WnzNdYgvK_-9" value="关键字段抽取" style="aspect=fixed;html=1;align=left;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cloud_shield;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;points=[];" parent="1" vertex="1">
           <mxGeometry x="570" y="597.6" width="26.8" height="27.49" as="geometry" />
         </mxCell>
-        <mxCell id="3jNfrjZPl3WnzNdYgvK_-10" value="轻量化数据采集" style="aspect=fixed;html=1;align=left;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cloud_shield;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;points=[];" vertex="1" parent="1">
+        <mxCell id="3jNfrjZPl3WnzNdYgvK_-10" value="轻量化数据采集" style="aspect=fixed;html=1;align=left;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cloud_shield;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;points=[];" parent="1" vertex="1">
           <mxGeometry x="570" y="560" width="26.8" height="27.49" as="geometry" />
         </mxCell>
-        <mxCell id="3jNfrjZPl3WnzNdYgvK_-11" value="风险特征上报" style="aspect=fixed;html=1;align=left;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cloud_shield;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;points=[];" vertex="1" parent="1">
+        <mxCell id="3jNfrjZPl3WnzNdYgvK_-11" value="风险特征上报" style="aspect=fixed;html=1;align=left;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cloud_shield;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;points=[];" parent="1" vertex="1">
           <mxGeometry x="570" y="632" width="26.8" height="27.49" as="geometry" />
         </mxCell>
       </root>
